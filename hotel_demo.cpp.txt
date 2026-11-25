@@ -25,7 +25,7 @@
 
 using namespace std;
 
-// ---------- Hotel settings ----------
+// ---------- Hotel settiings ----------
 const int NUM_TYPES = 4;
 const string TYPE_NAMES[NUM_TYPES] = {"Basic", "Business Class",
                                       "Premium Class", "Premium Suite"};
